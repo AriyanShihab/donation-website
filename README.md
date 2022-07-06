@@ -6,4 +6,4 @@
 
 ### creaed using plain CSS
 
-![fullpage-image.png](./donatation-images/fullpage-image.png)
+![fullpage-image.png](./donataion-images/fullpage-image.png)
