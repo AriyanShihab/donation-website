@@ -19,6 +19,10 @@ img {
     max-width: 100%;
 }
 
+p {
+    line-height: 30px;
+}
+
 
 /* common css start here */
 
@@ -51,6 +55,10 @@ img {
     color: #fff;
     border-radius: 4px;
     margin: 10px 0;
+}
+
+.primary {
+    color: #ff5959;
 }
 
 
@@ -269,8 +277,8 @@ img {
     display: inline-block;
     height: 58px;
     width: 400px;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
     margin: 0;
     margin-right: -5px;
 }
@@ -278,7 +286,8 @@ img {
 .updates-form .common-button {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    /* margin-bottom: 0; */
+    position: relative;
+    top: 2px;
     padding: 16px 28px;
 }
 
@@ -291,16 +300,17 @@ img {
 footer {
     padding: 70px 0;
     text-align: center;
-    background-color: #ff5959;
+    background-color: #0e0520;
 }
 
 footer h1 {
-    color: #fff;
+    color: #ff5959;
     font-size: 45px;
     font-style: italic;
-    margin: 20px 0;
+    font-family: "Lobster", cursive;
+    margin: 10px 0;
 }
 
-footer h2 {
+footer p {
     color: #fff;
 }
