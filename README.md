@@ -6,4 +6,4 @@
 
 ### creaed usong plain CSS
 
-<img width=“964” alt=“full-page-image” src=“../”>
+<img width=“964” alt=“full-page-image” src=“https://github.com/AriyanShihab/donation-website/blob/main/donataion-images/fullpage-image.png”>
