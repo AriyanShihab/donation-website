@@ -105,7 +105,7 @@ img {
 .gallary-head,
 .update-head {
     font-size: 45px;
-    color: #121212;
+    color: #444343;
     text-align: center;
     margin: 10px 0 20px 0;
     font-weight: 700;
@@ -267,7 +267,8 @@ img {
 .updates-form .common-button {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
+    padding: 16px 28px;
 }
 
 
