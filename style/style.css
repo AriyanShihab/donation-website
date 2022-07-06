@@ -223,8 +223,19 @@ img {
     margin-top: 50px;
 }
 
+.gallary-head {
+    margin-bottom: 10px;
+}
+
 .gallary-parent img {
     max-width: 33%;
+}
+
+.gallary-describe {
+    text-align: center;
+    max-width: 60%;
+    margin: 0 auto;
+    margin-bottom: 50px;
 }
 
 .second-row {
